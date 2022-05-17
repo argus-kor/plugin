@@ -266,7 +266,7 @@
 #app-fashionade-styleoutfits-pc {overflow:hidden;margin:30px 30px;height:294px;}
 #app-fashionade-styleoutfits-pc h4 {font-size:14px;}
 #app-fashionade-styleoutfits-pc > ul {margin-top:30px;}
-#app-fashionade-styleoutfits-pc > ul > li {overflow:hidden;position:relative;float:left;width:32%;height:265px;margin-left:2%;background-size:cover;background-color:transparent;background-size:100% 100%;}
+#app-fashionade-styleoutfits-pc > ul > li {overflow:hidden;position:relative;float:left;width:32%;height:265px;margin-left:2%;background-color:transparent;background-size:auto 100%;background-repeat:no-repeat;background-position:center;}
 #app-fashionade-styleoutfits-pc > ul > li:first-child {margin-left:0;}
 #app-fashionade-styleoutfits-pc > ul > li:hover {cursor:pointer;}
 #app-fashionade-styleoutfits-pc > ul > li .dimmed {display:none;position:absolute;z-index:1;left:0;top:0;right:0;bottom:0;background:#fff;opacity:.9;}
@@ -329,7 +329,7 @@
     background-size:24px 48px;
 }
 #app-fashionade-styleoutfits-mo .closed {display:none;position:absolute;top:0;right:0;z-index:3;background:#000;color:#fff;}
-#app-fashionade-styleoutfits-mo .wrap > li {display:none;width:100%;height:286px;background-size:cover;background-color:transparent;background-size:100% 100%;}
+#app-fashionade-styleoutfits-mo .wrap > li {display:none;width:100%;height:286px;background-color:transparent;background-size:auto 100%;background-repeat:no-repeat;background-position:center;}
 #app-fashionade-styleoutfits-mo.style_1 .wrap > li.stylelist_1 {display:block;}
 #app-fashionade-styleoutfits-mo.style_2 .wrap > li.stylelist_2 {display:block;}
 #app-fashionade-styleoutfits-mo.style_3 .wrap > li.stylelist_3 {display:block;}
